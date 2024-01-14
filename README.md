@@ -15,6 +15,11 @@ Daily Helper is a versatile Flutter application designed to assist users in mana
 - Convert different units to facilitate price comparison.
 - Example: Compare $5/10lb with $4/2kg.
 
+### 3. Buy List
+
+- Record and manage items that users want to save.
+- View, add, edit, and delete items in a list.
+
 ## Getting Started
 
 To get started with Daily Helper, follow these steps:
