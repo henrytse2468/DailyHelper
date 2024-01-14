@@ -6,7 +6,10 @@ Daily Helper is a versatile Flutter application designed to assist users in mana
 
 ### 1. Daily Working Hours Tracker
 
-- Record and manage daily working hours.![Sample Image](./images/recordWorkHour.jpeg)
+- Record and manage daily working hours.
+<p>
+        <img src="DailyHelper/image/recordWorkHour.jpeg" width="30%" height="30%" />
+</p>
 - Track break start and end times.
 - User-friendly CRUD functionality through the UI.
 
