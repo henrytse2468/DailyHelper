@@ -1,6 +1,6 @@
 # Daily Helper
 
-Daily Helper is a versatile Flutter application designed to assist users in managing their daily activities and making price comparisons between different units.
+Daily Helper is a versatile Flutter application designed to assist users in managing their daily activities and making price comparisons between different units which built on flutter framework.
 
 ## Features
 
